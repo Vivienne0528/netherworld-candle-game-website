@@ -1,8 +1,7 @@
 function App() {
-  const a = 1;
   return (
     <>
-      <p className="bg-red-500">{a}Game Website</p>
+      <h1 className="bg-red-500">Game Website</h1>
     </>
   );
 }
